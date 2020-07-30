@@ -2,12 +2,12 @@
 
 Purpose: An app to log the combinations used as part of your Muay Thai training sessions
 
-Problem: As a user I would like to log my combinations so that I can recall my training sessions for future use
+Problem: As a user I would like to log my combinations so that I can recall and plan for my future training sessions
 
 Target: New & experienced Muay Thai technicians
 
 Technical specifications & learning:
-- Fully programmatic layout construction (subclassing UIView)
+- Fully programmatic layout construction (subclassing UIView, autolayout)
 - Working data model (to be migrated to offline database, e.g. Realm)
 - MVVM architecture implementation
 - Property wrappers (inc. generics)
@@ -39,3 +39,4 @@ Views:
 
 Device support:
 - iPhone and iPad
+- Optimised for all screen sizes from iPhone SE (1st gen) to iPhone 11 XS Max. All iPad models with iOS 13+ support.
