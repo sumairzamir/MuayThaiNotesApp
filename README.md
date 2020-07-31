@@ -1,10 +1,23 @@
-# MuayThaiNotesApp
+[ Add image ]
 
-Purpose: An app to log the combinations used as part of your Muay Thai training sessions
+# :boxing_glove: MuayThaiNotes
+MuayThaiNotes is a :boxing_glove: logging app built to help beginners and technicians keep track of their combinations and improve the effectiveness of training sessions. 
 
-Problem: As a user I would like to log my combinations so that I can recall and plan for my future training sessions
+Download the latest version of the app from the App Store:
 
-Target: New & experienced Muay Thai technicians
+
+The Android version is coming soon!
+
+# Built using
+- Swift 5.3x
+- UIKit
+- RealmSwift
+- Programmatic layout construction (built using UIKit)
+- Local data persistance (Realm)
+- MVVM (Model - View - ViewModel) architecture
+- Property wrappers
+- Extension classes (UIKit)
+
 
 Technical specifications & learning:
 - Fully programmatic layout construction (subclassing UIView, autolayout)
