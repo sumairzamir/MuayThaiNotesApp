@@ -15,6 +15,8 @@ The Android version is coming soon!
 - Toast_Swift
 - Repeat
 - NVActivityIndicatorView
+- Sketch
+- Audacity
 
 # Technical learning
 - Fully programmatic layout construction
