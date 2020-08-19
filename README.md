@@ -1,4 +1,4 @@
-<img src="https://github.com/sumairzamir/MuayThaiNotesApp/blob/master/MuayThaiNotes_AppStore_Screenshots.png" width="1200" height="415">
+<img src="https://github.com/sumairzamir/MuayThaiNotesApp/blob/master/MuayThaiNotes_AppStore_Screenshots.png" width="1200" height="325">
 
 # :boxing_glove: MuayThaiNotes
 MuayThaiNotes is a :boxing_glove: logging app built to help beginners and technicians keep track of their combinations, improve the effectiveness of training sessions and provide the ability to start a timer for a workout.
