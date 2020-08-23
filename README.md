@@ -1,7 +1,7 @@
-<img src="https://github.com/sumairzamir/MuayThaiNotesApp/blob/master/MuayThaiNotes_AppStore_Screenshots.png" width="1200" height="325">
+<img src="https://github.com/sumairzamir/MuayThaiNotesApp/blob/master/MuayThaiNotes_AppStore_Screenshots.png" width="1000" height="325">
 
 # :boxing_glove: MuayThaiNotes
-MuayThaiNotes is a :boxing_glove: logging app built to help beginners and technicians keep track of their combinations, improve the effectiveness of training sessions and provide the ability to start a timer for a workout.
+MuayThaiNotes is a logging app built to help beginners and technicians keep track of combinations, start a workout and improve the effectiveness of training.
 
 Download the latest version of the app from the App Store: [Add link]
 
@@ -10,8 +10,8 @@ The Android version is coming soon!
 # Built using
 - Swift 5.3x
 - UIKit
-- RealmSwift (local persistance)
-- Firebase (Firestore - online analytics)
+- RealmSwift
+- Firebase
 - Toast_Swift
 - Repeat
 - NVActivityIndicatorView
@@ -26,26 +26,21 @@ The Android version is coming soon!
 - TraitCollection management (enabling dark/light mode, note: light mode currently disabled)
 - Array functions (map, compactmap, index, mirror)
 
-Terms: 
-- Workout: Refers to the daily training session. A user can save multiple combinations to a workout (inc. duplication)
-- Saved combinations: Refers to combinations saved. These are frequently used combinations and are unique. For quick selection
+# App description
+Make the most of your training sessions. Log and track your Muay Thai combinations. 
+
+Make the most of your training as a beginner: 
+As a beginner it can be difficult to get your head around the combinations you learn. With MuayThaiNotes keep a track of these combinations. Make the most of your training rather than spending time thinking about which combinations you did.
+
+Document and push yourself further as technician:
+As an experienced fighter, combinations and flow come easy. Use MuayThaiNotes to keep a detailed note of the killer combinations used as part of your intense training. Save and share the combinations you come up with. With your trainees and your peers.
 
 Features:
-- Select a date for your workout
-- Save combinations for daily workouts from a selection screen
-- Save unique combinations for quick selection in your workout
-- Start a timer for your workout, select both a round and rest timer
-- Reorganise combinations both in workouts and saved combinations (drag & drop)
-- Save combinations from the workout (drag left)
-- Delete combinations (drag left)
+- Plan your workouts. Save combinations to specific dates.
+- Save your favourite combinations. For quick access in your workouts.
+- Start a workout. A simple to use timer for when you need to get going.
+- Share your combinations. Share your killer combination with your friends.
+- Freely edit combinations. Edit, re-order (drag & drop) your combinations easily.
 
-Views:
-- Workout: Presents combinations logged for a specific date
-- Saved combinations: Presents unique combinations saved for quick selection
-- Add combinations: Presents the ability to select a new combination and select a saved combination
-- New combination: Select a new combination. Strikes split between offence and defence
-- Key: Information about the strikes, labelled and colour scheme
-- Timer: Provides user the ability to start a timer and specify round and rest duration
-
-Device support:
-- Optimised for all iPhones and iPads with iOS 13+ support
+# Device support:
+- Optimised for all iPhones and iPads with iOS 13+ support.
