@@ -34,7 +34,7 @@ Make the most of your training as a beginner:
 As a beginner it can be difficult to get your head around the combinations you learn. With MuayThaiNotes keep a track of these combinations. Make the most of your training rather than spending time thinking about which combinations you did.
 
 Document and push yourself further as technician:
-As an experienced fighter, combinations and flow come easy. Use MuayThaiNotes to keep a detailed note of the killer combinations used as part of your intense training. Save and share the combinations you come up with. With your trainees and your peers.
+As an experienced fighter, combinations and flow come easy. Use MuayThaiNotes to keep a detailed note of the killer combinations used as part of your intense training. Save and share the combinations with your trainees and your peers.
 
 Features:
 - Plan your workouts. Save combinations to specific dates.
@@ -43,5 +43,5 @@ Features:
 - Share your combinations. Share your killer combination with your friends.
 - Freely edit combinations. Edit, re-order (drag & drop) your combinations easily.
 
-# Device support:
+# Device support
 - Optimised for all iPhones and iPads with iOS 13+ support.
