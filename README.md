@@ -2,6 +2,9 @@
 ![GitHub Cards Preview](https://github.com/sumairzamir/MuayThaiNotesApp/blob/master/MuayThaiNotes_AppStore_Screenshots.png?raw=true)
 
 # :boxing_glove: MuayThaiNotes
+
+![platform](https://img.shields.io/badge/platform-iOS-blue.svg) ![version](https://img.shields.io/badge/version-v1.0-green.svg)
+
 MuayThaiNotes is a logging app built to help beginners and technicians keep track of combinations, start a workout and improve the effectiveness of training.
 
 Download the latest version of the app from the App Store: [Add link]
