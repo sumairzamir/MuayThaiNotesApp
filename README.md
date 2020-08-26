@@ -3,7 +3,7 @@
 
 # :boxing_glove: MuayThaiNotes
 
-![platform](https://img.shields.io/badge/platform-iOS_13.0+-blue.svg) ![devices](https://img.shields.io/badge/devices-iPhone_or_iPad-blue.svg) ![version](https://img.shields.io/badge/version-v1.0-green.svg)
+![platform](https://img.shields.io/badge/platform-iOS_13.0+-blue.svg) ![devices](https://img.shields.io/badge/devices-iPhone_and_iPad-blue.svg) ![version](https://img.shields.io/badge/version-v1.0-green.svg)
 
 MuayThaiNotes is a logging app built to help beginners and technicians keep track of combinations, start a workout and improve the effectiveness of their training.
 
