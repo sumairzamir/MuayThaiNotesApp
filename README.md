@@ -3,9 +3,9 @@
 
 # :boxing_glove: MuayThaiNotes
 
-![platform](https://img.shields.io/badge/platform-iOS-blue.svg) ![version](https://img.shields.io/badge/version-v1.0-green.svg)
+![platform](https://img.shields.io/badge/platform-iOS_13.0+-blue.svg) ![devices](https://img.shields.io/badge/devices-iPhone_or_iPad-blue.svg) ![version](https://img.shields.io/badge/version-v1.0-green.svg)
 
-MuayThaiNotes is a logging app built to help beginners and technicians keep track of combinations, start a workout and improve the effectiveness of training.
+MuayThaiNotes is a logging app built to help beginners and technicians keep track of combinations, start a workout and improve the effectiveness of their training.
 
 Download the latest version of the app from the App Store: [Add link]
 
@@ -31,10 +31,10 @@ The Android version is coming soon!
 - Array functions (map, compactmap, index, mirror)
 
 # App description
-Make the most of your training sessions. Log and track your Muay Thai combinations. 
+MuayThaiNotes is a logging app built to help beginners and technicians keep track of combinations, start a workout and improve the effectiveness of their training.
 
 Make the most of your training as a beginner: 
-As a beginner it can be difficult to get your head around the combinations you learn. With MuayThaiNotes keep a track of these combinations. Make the most of your training rather than spending time thinking about which combinations you did.
+As a beginner it can be difficult to get your head around the combinations you practice. With MuayThaiNotes keep a track of these combinations and focus only on your workout.
 
 Document and push yourself further as technician:
 As an experienced fighter, combinations and flow come easy. Use MuayThaiNotes to keep a detailed note of the killer combinations used as part of your intense training. Save and share the combinations with your trainees and your peers.
@@ -45,6 +45,11 @@ Features:
 - Start a workout. A simple to use timer for when you need to get going.
 - Share your combinations. Share your killer combination with your friends.
 - Freely edit combinations. Edit, re-order (drag & drop) your combinations easily.
+
+Credits:
+Timer sound: Zapsplat.com
+App Preview music: Mixkit.co
+App Store screenshots: app-mockup.com
 
 # Device support
 - Optimised for all iPhones and iPads with iOS 13+ support.
