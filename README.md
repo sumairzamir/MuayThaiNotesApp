@@ -7,7 +7,7 @@
 
 MuayThaiNotes is a logging app built to help beginners and technicians keep track of combinations, start a workout and improve the effectiveness of their training.
 
-Download the latest version of the app from the App Store: [Add link]
+Download the latest version of the app from the App Store: [Link](https://apps.apple.com/gb/app/muaythainotes/id1524865596)
 
 The Android version is coming soon!
 
@@ -21,14 +21,6 @@ The Android version is coming soon!
 - NVActivityIndicatorView
 - Sketch
 - Audacity
-
-# Technical learning
-- Fully programmatic layout construction
-- Local data persistance (Realm)
-- MVVM (Model - View - ViewModel) architecture
-- Property wrappers
-- TraitCollection management (enabling dark/light mode, note: light mode currently disabled)
-- Array functions (map, compactmap, index, mirror)
 
 # App description
 MuayThaiNotes is a logging app built to help beginners and technicians keep track of combinations, start a workout and improve the effectiveness of their training.
