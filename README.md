@@ -39,9 +39,9 @@ Features:
 - Freely edit combinations. Edit, re-order (drag & drop) your combinations easily.
 
 Credits:
-Timer sound: Zapsplat.com
-App Preview music: Mixkit.co
-App Store screenshots: app-mockup.com
+- Timer sound: Zapsplat.com
+- App Preview music: Mixkit.co
+- App Store screenshots: app-mockup.com
 
 # Device support
 - Optimised for all iPhones and iPads with iOS 13+ support.
